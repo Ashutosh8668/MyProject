@@ -1,0 +1,19 @@
+/* summary.css */
+
+.summary-container {
+    padding: 20px;
+  }
+  
+  .summary-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .user-summary {
+    margin-bottom: 20px;
+  }
+  
+  .map-iframe {
+    margin-top: 20px;
+  }
+  
